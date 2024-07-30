@@ -37,7 +37,7 @@ Alguns dos projetos os quais atuei como analista/desenvolvedor:
 
 ## 🚀 Tecnologias
 
-Principais tecnologias que já utilizadas:
+Principais tecnologias utilizadas:
 
   - Programação
 
